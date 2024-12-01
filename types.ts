@@ -1,0 +1,1 @@
+type AdventOfCodeSolution = (input: string) => string | number;
