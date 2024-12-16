@@ -1,5 +1,3 @@
-import { writeFile } from "fs/promises";
-
 const combine = (x: string[]) => x.filter(a => a).join("");
 
 const Solution: AdventOfCodeSolution = (input) => {
